@@ -1,16 +1,7 @@
 # order_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Farmer e-commerce platform developed a mobile application using Flutter and Firebase to connect farmers directly with consumers, supporting UPI and COD payments, real-time database management, and product listings
+![Screenshot_2025-02-19-22-34-26-555_com example order_app](https://github.com/user-attachments/assets/1da5bfbd-ff1a-4df8-aeb5-9ecd77922155)
+![Uploading Screenshot_2025-02-19-22-35-33-830_com.example.order_app.jpg…]()
+![Uploading Screenshot_2025-02-19-22-38-30-346_com.example.order_app.jpg…]()
+![Uploading Screenshot_2025-02-19-23-00-44-855_com.example.order_app.jpg…]()
